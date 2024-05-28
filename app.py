@@ -1,4 +1,3 @@
-from shiny import ui, render, App
 from flask import Flask, request, render_template, send_file
 from PIL import Image
 import io
